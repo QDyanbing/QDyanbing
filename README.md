@@ -47,10 +47,6 @@ Frontend engineer based in Hangzhou, working across React / Vue / Qiankun / Node
 
 ## 📊 Activity & Stats
 
-| GitHub Stats | Top Languages |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=QDyanbing&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QDyanbing&layout=compact&hide_border=true" /> |
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=QDyanbing&hide_border=true&date_format=%5BY.%5Dn.j" />
 </div>
@@ -64,10 +60,6 @@ Frontend engineer based in Hangzhou, working across React / Vue / Qiankun / Node
 ## 🧱 Visual Dashboards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QDyanbing&theme=github" alt="profile details" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QDyanbing&theme=github" alt="repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QDyanbing&theme=github" alt="most commit language" />
 </p>
@@ -77,3 +69,6 @@ Frontend engineer based in Hangzhou, working across React / Vue / Qiankun / Node
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QDyanbing&theme=github" alt="summary stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QDyanbing&theme=github" alt="profile details" />
+</p>

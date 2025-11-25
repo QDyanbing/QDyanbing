@@ -49,31 +49,31 @@ Frontend engineer based in Hangzhou, working across React / Vue / Qiankun / Node
 
 | GitHub Stats | Top Languages |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=gaoyanbing&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoyanbing&layout=compact&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=QDyanbing&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QDyanbing&layout=compact&hide_border=true" /> |
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gaoyanbing&hide_border=true&date_format=%5BY.%5Dn.j" />
+  <img src="https://streak-stats.demolab.com/?user=QDyanbing&hide_border=true&date_format=%5BY.%5Dn.j" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaoyanbing&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=QDyanbing&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true" />
 </div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaoyanbing&theme=github-compact)](https://github.com/gaoyanbing)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QDyanbing&theme=github-compact)](https://github.com/QDyanbing)
 
 ## 🧱 Visual Dashboards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaoyanbing&theme=github" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QDyanbing&theme=github" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaoyanbing&theme=github" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaoyanbing&theme=github" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QDyanbing&theme=github" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QDyanbing&theme=github" alt="most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaoyanbing&theme=github&utcOffset=8" alt="productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaoyanbing&theme=github" alt="summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QDyanbing&theme=github&utcOffset=8" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QDyanbing&theme=github" alt="summary stats" />
 </p>
 

@@ -49,6 +49,6 @@ Frontend engineer based in Hangzhou, working across React / Vue / Qiankun / Node
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=QDyanbing&show_icons=true&theme=flag-india&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QDyanbing&layout=compact&theme=flag-india&hide_border=true" alt="" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## 📈 Activity Graph:
+## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QDyanbing&theme=react-dark)](https://github.com/QDyanbing)

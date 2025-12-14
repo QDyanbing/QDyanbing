@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./assets/banner.svg" alt="gaoyanbing banner"/>
 </p>
@@ -45,30 +44,11 @@ Frontend engineer based in Hangzhou, working across React / Vue / Qiankun / Node
 - Email: [gaoyanbing.cc@gmail.com](mailto:gaoyanbing.cc@gmail.com) / [yanbing.gao@aliyun.com](mailto:yanbing.gao@aliyun.com)
 - WeChat / Phone: +86 157-6551-6391
 
-## 📊 Activity & Stats
+## 📊 Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=QDyanbing&hide_border=true&date_format=%5BY.%5Dn.j" />
-</div>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=QDyanbing&show_icons=true&theme=flag-india&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QDyanbing&layout=compact&theme=flag-india&hide_border=true" alt="" /> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QDyanbing&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true" />
-</div>
+## 📈 Activity Graph:
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QDyanbing&theme=github-compact)](https://github.com/QDyanbing)
-
-## 🧱 Visual Dashboards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QDyanbing&theme=github" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QDyanbing&theme=github" alt="most commit language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QDyanbing&theme=github&utcOffset=8" alt="productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QDyanbing&theme=github" alt="summary stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QDyanbing&theme=github" alt="profile details" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QDyanbing&theme=react-dark)](https://github.com/QDyanbing)

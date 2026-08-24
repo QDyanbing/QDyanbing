@@ -15,23 +15,23 @@
 
 ## 近期工作
 
-- 🧩 **Ant Design 生态** — 持续参与 [Ant Design](https://github.com/ant-design/ant-design)、[Ant Design X](https://github.com/ant-design/x) 与 [react-component](https://github.com/react-component) 的建设，关注组件 API、样式语义、交互细节、测试体系与工程质量。<br />
+- **Ant Design 生态** — 持续参与 [Ant Design](https://github.com/ant-design/ant-design)、[Ant Design X](https://github.com/ant-design/x) 与 [react-component](https://github.com/react-component) 的建设，关注组件 API、样式语义、交互细节、测试体系与工程质量。<br />
   `TypeScript` `React`
-- ✦ **[crucialy-rich](https://github.com/QDyanbing/crucialy-rich)** — 从零构建富文本编辑内核与 React 组件，推进文档模型、选区、Operation、Command、History 与浏览器输入闭环。<br />
+- **[crucialy-rich](https://github.com/QDyanbing/crucialy-rich)** — 从零构建富文本编辑内核与 React 组件，推进文档模型、选区、Operation、Command、History 与浏览器输入闭环。<br />
   `TypeScript` `React`
-- ⚙️ **[react-project-template](https://github.com/QDyanbing/react-project-template)** — 面向中后台应用的 React 工程基线，覆盖认证、权限、国际化、Mock、测试、CI 与发布流程。<br />
+- **[react-project-template](https://github.com/QDyanbing/react-project-template)** — 面向中后台应用的 React 工程基线，覆盖认证、权限、国际化、Mock、测试、CI 与发布流程。<br />
   `TypeScript` `React` `Ant Design`
-- ↔️ **[vue-resize-container](https://github.com/QDyanbing/vue-resize-container)** — 兼容 Vue 2.7 与 Vue 3 的拖拽缩放容器，支持八向缩放、拖拽、最大化与父级边界约束。<br />
+- **[vue-resize-container](https://github.com/QDyanbing/vue-resize-container)** — 兼容 Vue 2.7 与 Vue 3 的拖拽缩放容器，支持八向缩放、拖拽、最大化与父级边界约束。<br />
   `TypeScript` `Vue` `Vite`
 
 ## GitHub 动态
 
 <p align="center">
-  <img align="top" width="61%" src="./assets/generated/github-stats.svg" alt="GitHub stats" /><img align="top" width="39%" src="./assets/generated/top-languages.svg" alt="Top languages" />
+  <img align="top" width="56.85%" src="./assets/generated/github-stats.svg" alt="GitHub stats" /><img align="top" width="43.15%" src="./assets/generated/top-languages.svg" alt="Top languages" />
 </p>
 
 <p align="center">
   <a href="https://github.com/QDyanbing">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=QDyanbing&theme=react-dark" alt="GitHub activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=QDyanbing&bg_color=ffffff&color=57606a&line=1677ff&point=69b1ff&area=true&area_color=91caff&hide_border=true&hide_title=true" alt="GitHub activity graph" />
   </a>
 </p>

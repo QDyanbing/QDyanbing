@@ -41,6 +41,22 @@ jobs:
           core_version: 2.1.4
           fail_on_error: true
 
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@9b38b03cac7ffb9f093a82f0ea9c634d5df62297
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=ffffff&color=57606a&line=1677ff&point=69b1ff&area=true&area_color=91caff&hide_border=true&hide_title=true
+          output_path: assets/generated/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate activity graph
+        shell: bash
+        run: |
+          # The renderer may return an error SVG when GitHub data is unavailable.
+          # Only publish a graph that contains the expected line and area paths.
+          grep -Fq 'class="ct-line"' assets/generated/activity-graph.svg
+          grep -Fq 'class="ct-area"' assets/generated/activity-graph.svg
+
       - name: Commit updated cards
         shell: bash
         run: |

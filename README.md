@@ -32,6 +32,6 @@
 
 <p align="center">
   <a href="https://github.com/QDyanbing">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=QDyanbing&bg_color=ffffff&color=57606a&line=1677ff&point=69b1ff&area=true&area_color=91caff&hide_border=true&hide_title=true" alt="GitHub activity graph" />
+    <img src="./assets/generated/activity-graph.svg" alt="GitHub activity graph" />
   </a>
 </p>

@@ -15,20 +15,7 @@
 2018 年开始从事前端开发，多年来主要使用 React 与 TypeScript 构建中后台应用和组件库，并持续参与开源建设；
 
 <p>
-  <img src="./assets/badges/typescript.svg" alt="TypeScript" />
-  <img src="./assets/badges/react.svg" alt="React" />
-  <img src="./assets/badges/ant-design.svg" alt="Ant Design" />
-  <img src="./assets/badges/vue.svg" alt="Vue" />
-  <img src="./assets/badges/javascript.svg" alt="JavaScript" />
-  <img src="./assets/badges/html5.svg" alt="HTML5" />
-  <img src="./assets/badges/css.svg" alt="CSS" /><br />
-  <img src="./assets/badges/nodejs.svg" alt="Node.js" />
-  <img src="./assets/badges/vite.svg" alt="Vite" />
-  <img src="./assets/badges/vitest.svg" alt="Vitest" />
-  <img src="./assets/badges/playwright.svg" alt="Playwright" />
-  <img src="./assets/badges/eslint.svg" alt="ESLint" />
-  <img src="./assets/badges/pnpm.svg" alt="pnpm" />
-  <img src="./assets/badges/github-actions.svg" alt="GitHub Actions" />
+  <img src="./assets/skill-badges.svg" width="509" alt="TypeScript、React、Ant Design、Vue、JavaScript、HTML5、CSS；Node.js、Vite、Vitest、Playwright、ESLint、pnpm、GitHub Actions" />
 </p>
 
 ### 近期工作

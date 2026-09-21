@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="42" viewBox="0 0 400 42" role="img" aria-labelledby="title">
+  <title id="title">Hi, I'm 高艳兵 👋</title>
+  <style>
+    text { fill: #1f2328; font: 600 32px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; }
+    @media (prefers-color-scheme: dark) { text { fill: #f0f6fc; } }
+  </style>
+  <text x="0" y="32">Hi, I'm 高艳兵 👋</text>
+</svg>
